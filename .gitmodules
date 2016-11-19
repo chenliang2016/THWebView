@@ -1,0 +1,2 @@
+[submodule "Carthage/Checkouts/Curry"]
+	url = https://github.com/thoughtbot/Curry.git
